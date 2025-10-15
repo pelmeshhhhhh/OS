@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Visual Studio (projects)\Librrs\DL\Vector.h(16,12): warning C4251: Vector::x: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+D:\Visual Studio (projects)\Librrs\Libraries\Number.h(9,7): message : см. объявление "Number"
+D:\Visual Studio (projects)\Librrs\DL\Vector.h(17,12): warning C4251: Vector::y: class "Number" должен иметь dll-интерфейс для использования клиентами class "Vector"
+D:\Visual Studio (projects)\Librrs\Libraries\Number.h(9,7): message : см. объявление "Number"
+     Создается библиотека D:\Visual Studio (projects)\Librrs\x64\Debug\TEST.lib и объект D:\Visual Studio (projects)\Librrs\x64\Debug\TEST.exp
+  TEST.vcxproj -> D:\Visual Studio (projects)\Librrs\x64\Debug\TEST.exe
