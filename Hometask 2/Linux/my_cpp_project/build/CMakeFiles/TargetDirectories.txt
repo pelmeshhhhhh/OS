@@ -1,0 +1,3 @@
+/home/daria/my_cpp_project/build/CMakeFiles/matrix_multiplier.dir
+/home/daria/my_cpp_project/build/CMakeFiles/edit_cache.dir
+/home/daria/my_cpp_project/build/CMakeFiles/rebuild_cache.dir
