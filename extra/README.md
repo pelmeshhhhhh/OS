@@ -12,14 +12,18 @@ g++ -std=c++17 server_socket.cpp -o server_socket
 g++ -std=c++17 client_socket.cpp -o client_socket
 
 Далее в двух разных терминалах:
+#FIFO
 ./server
 ./client
 
+#POSIX
 ./sender
 ./receiver
 
+#Shared Memory
 ./writer
 ./reader
 
+#Unix Domain Sockets
 ./server_socket
 ./client_socket
